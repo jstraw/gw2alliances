@@ -3,6 +3,7 @@
 ## Alliances
 
 ### \[BONK] Bonk them all
+
 | Tag | Guild | Region |
 | --- | --- | --- |
 | [Jiao] | Gu Gu | SEA |
@@ -20,13 +21,19 @@
 | [Rx] | Prescribed | NA |
 | [SOCK] | Dobby is Free | NA/SEA |
 
-[NPC Alliance]
-[DTF]  - Defiance Of The Fearless (NA)
-[Myst] - Adventurers in the Myst (NA) 20—30
-[ROG]  - Rise Of The Guillotine (NA)
+### \[NPC]
 
-[Solo Guilds]
-[BEAR] - Bears Evolve in the Arcane Room (SEA)
-[BoB]  - Brotherhood of Bogans (OCX)
-[DEVO] - Knights of Devotion (NA)
-[GEM]  - Diamond Coast (NA)
+| Tag | Guild | Region |
+| --- | --- | --- |
+| [DTF] | Defiance Of The Fearless | NA |
+| [Myst] | Adventurers in the Myst | NA |
+| [ROG] | Rise Of The Guillotine | NA |
+
+## Guilds
+
+| Tag | Guild | Region |
+| --- | --- | --- |
+| [BEAR] | Bears Evolve in the Arcane Room | SEA |
+| [BoB] | Brotherhood of Bogans | OCX |
+| [DEVO] | Knights of Devotion | NA |
+| [GEM] | Diamond Coast | NA |
