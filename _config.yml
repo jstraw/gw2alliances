@@ -5,4 +5,32 @@ google_analytics:
 theme: jekyll-theme-dinky
 navigation:
   - name: Abaddon's Prison
-    url: AP.html
+    url: AP
+  - name: De Molish Post
+    url: DMP
+  - name: Domain of Torment
+    url: DoT
+  - name: Dwayna's Temple
+    url: DT
+  - name: Hall of Judgment
+    url: HoJ
+  - name: Lagula's Kraal
+    url: LK
+  - name: Lutgardis Conservatory
+    url: LC
+  - name: Mithric Cliffs
+    url: MC
+  - name: Moogooloo
+    url: Moo
+  - name: Mosswood
+    url: Moss
+  - name: Rall's Rest
+    url: RR
+  - name: Ruined Cathedral of Blood
+    url: RCoB
+  - name: Throne of Balthazar
+    url: ToB
+  - name: Tombs of Drascir
+    url: ToD
+  - name: Yohlon Haven
+    url: YH
