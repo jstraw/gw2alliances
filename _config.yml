@@ -3,3 +3,6 @@ description: Guilds and their Worlds for GW2 NA
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
+navigation:
+  - name: Abaddon's Prison
+    url: AP.html
